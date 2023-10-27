@@ -6,6 +6,5 @@ export const store = configureStore({
         // Reducers should be key-value pair
          counterReducer
 
-
     }
 })
